@@ -1,0 +1,4 @@
+queries:
+- name : 'CVE-2023-20198'
+  query : '{"combinator":"and","rules":[{"entity_type":"device","field":"os","operator":"contains","value":"IOS XE"}]}'
+  source : ''
